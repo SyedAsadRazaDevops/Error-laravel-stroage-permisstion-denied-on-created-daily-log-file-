@@ -3,7 +3,7 @@ site not open due to server error ,even then mongo and nginx working fine ,and p
 
 >error pic
 
-![image (6)](https://user-images.githubusercontent.com/71556060/151307605-58822f4e-dce7-4ba2-b806-5528eba572e1.png)
+![Error ](https://user-images.githubusercontent.com/71556060/151309667-642fd8c1-afe4-4064-a87a-bb89a51947ad.png)
 
 
 to see the log of laravel you need to turn on Debuger on project .env file
